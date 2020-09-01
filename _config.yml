@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yulong Pei"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yulong Pei"
 description              : &description "Eindhoven University of Technology"
 url                      : https://ylpei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
