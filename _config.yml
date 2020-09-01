@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Yulong Pei"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.jpg"
+  bio              : "Postdoc Research at Eindhoven University of Technology"
   location         : "Eindhoven, the Netherlands"
   employer         :
-  pubmed           : "Postdoc Research at Eindhoven University of Technology"
+  pubmed           : #"Postdoc Research at Eindhoven University of Technology"
   googlescholar    : "https://scholar.google.com/citations?user=DLazAw4AAAAJ"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Yulong_Pei4"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yulong-pei-30b52767/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
