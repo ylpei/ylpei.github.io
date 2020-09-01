@@ -7,7 +7,7 @@ author_profile: true
 
 ### Tutorials
 
-- **Yulong Pei**, Xin Du, Jianpeng Zhang, George Fletcher, Mykola Pechenizkiy. Role Analytics in Networks. In *ECML/PKDD*, 2020.
+- **Yulong Pei**, George Fletcher, Mykola Pechenizkiy. Role Analytics in Networks. In *ECML/PKDD*, 2020.
 
 ### Journals
 
