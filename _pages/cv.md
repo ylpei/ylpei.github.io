@@ -11,22 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science, Eindhoven University of Technology, 2020
+* M.S. in Computer Science, Carnegie Mellon University, 2015
+* M.S. in Computer Science, Peking University, 2013
+* B.S. in Computer Science, Jilin University, 2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb 2020 - Present: Postdoc Researcher
+  * Eindhoven University of Technology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* June 2018 - Nov 2018: Research Scientist
+  * NEC Laboratories Europe
+
+* Sept 2015 - Feb 2020: Doctoral Researcher
+  * Eindhoven University of Technology
   
 Professional Services
 ======
