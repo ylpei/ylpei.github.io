@@ -20,5 +20,5 @@ Research Interests
 
 Contact
 ======
-Email: y.pei.1 at tue dot nl
-Office: MetaForum 7.060, TU/e
+* Email: y.pei.1 at tue dot nl
+* Office: MetaForum 7.060, TU/e
