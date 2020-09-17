@@ -13,7 +13,7 @@ author_profile: true
 
 - **Yulong Pei**, Xin Du, Jianpeng Zhang, George Fletcher, Mykola Pechenizkiy. *struc2gauss*: Structural Role Preserving Network Embedding via Gaussian Embedding. In *Data Mining and Knowledge Discovery*, 2020.
 
-- Xin Du, **Yulong Pei**, Wouter Duivesteijn, Mykola Pechenizkiy. Exceptional Spatio-Temporal Behavior Mining through Bayesian Non-Parametric Modeling. In *Data Mining and Knowledge Discovery*, accepted, 2020.
+- Xin Du, **Yulong Pei**, Wouter Duivesteijn, Mykola Pechenizkiy. Exceptional Spatio-Temporal Behavior Mining through Bayesian Non-Parametric Modeling. In *Data Mining and Knowledge Discovery*, 2020.
 
 - Jianpeng Zhang, **Yulong Pei**, George Fletcher, Mykola Pechenizkiy. Evaluation of the Sample Clustering Process on Graphs. In *IEEE Transactions on Knowledge and Data Engineering*, 2019.
 
