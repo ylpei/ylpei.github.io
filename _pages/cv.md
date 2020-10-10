@@ -13,8 +13,6 @@ Education
 ======
 * Ph.D. in Computer Science, Eindhoven University of Technology, 2020
 * M.S. in Computer Science, Carnegie Mellon University, 2015
-* M.S. in Computer Science, Peking University, 2013
-* B.S. in Computer Science, Jilin University, 2010
 
 Work experience
 ======
